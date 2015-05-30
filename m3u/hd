@@ -1,28 +1,3 @@
-#EXTM3U $ExtFilter=\"RTMP\"
-#EXTINF:-1,HBO Mexico
-rtmp://$OPT:rtmp-raw=rtmp://50.7.28.146/app playpath=16997?
-MTQzMjkzOTk1MDs5Nzc0MzFiZTBjNzU2MDA3NTFhMWVjN2RkYTZmNDI4MQ== swfUrl=http://cdn.shidurlive.com/player.swf live=1 pageUrl=http://www.shidurlive.com/stream/4e7a51334e5463304e7a59324d5459344e6a49324e445a6d4e7a4d3d/c32954d09874
-
-#EXTM3U $ExtFilter=\"RTMP\"
-#EXTINF:-1,DirecTV Sports Latino
-rtmp://$OPT:rtmp-raw=rtmp://178.162.202.6/live playpath=directv2019?id=227892 swfUrl=http://www.mipsplayer.com/content/scripts/fplayer.swf live=1 pageUrl=http://www.mipsplayer.com/embedplayer/directv2019/1/600/385
-
-#EXTM3U $ExtFilter=\"RTMP\"
-#EXTINF:-1,Planeta Futbol Mexico
-rtmp://$OPT:rtmp-raw=rtmp://50.7.28.130/app playpath=17018?MTQzMjk0MTE2MDs3ZjA0Nzc0NzMwYmVmMmZiY2FmY2NhOGExMjRhNTA3Yw== swfUrl=http://cdn.shidurlive.com/player.swf live=1 pageUrl=http://www.shidurlive.com/stream/4e7a51334e5463304e7a59334d445a6a4e6a45325a5459314e7a51324e673d3d/b7a8aaa3025c
-
-#EXTM3U $ExtFilter=\"RTMP\"
-#EXTINF:-1,TDN Mexico
-rtmp://$OPT:rtmp-raw=rtmp://50.7.28.234/app playpath=16982?MTQzMjk0MTI4OTthMmRjMmYwZDNiYzQwNzRlZDgyZjc5YzM3YzQzMTA2NQ== swfUrl=http://cdn.shidurlive.com/player.swf live=1 pageUrl=http://www.shidurlive.com/stream/4e7a51334e5463304e7a59334e4459354e6a51324f5459314e6d553d/0c225b4eff97
-
-#EXTM3U $ExtFilter=\"RTMP\"
-#EXTINF:-1,MaxPrime Mexico
-rtmp://$OPT:rtmp-raw=rtmp://50.7.28.130/app playpath=16979?MTQzMjk0MTQ1ODs3NzE3MDA0Mzc5M2M2Y2IxMDM2ZTdjMTBjNmJjMDY1NA== swfUrl=http://cdn.shidurlive.com/player.swf live=1 pageUrl=http://www.shidurlive.com/stream/4e7a51334e5463304e7a59325a4459784e7a67334d4463794e6a45324f545a6b4e6a553d/f0eaf05d0622
-
-#EXTM3U $ExtFilter=\"RTMP\"
-#EXTINF:-1,Paramount Chanel Latino
-rtmp://$OPT:rtmp-raw=rtmp://204.45.157.186/app playpath=16980?MTQzMjk0MTU2NTtiMzdhMGY1NjhiN2FjZGE0NTlmNmVmZjc1NmVjMTQyNQ== swfUrl=http://cdn.shidurlive.com/player.swf live=1 pageUrl=http://www.shidurlive.com/stream/4e7a51334e5463304e7a59334d4459784e7a49324d545a6b4e6d51324e513d3d/41a4cf10ce2f
-
 
 ﻿#EXTM3U
 #EXTINF:-1 tvg-id="SkyMX_I1107.198546159.microsoft.com" tvg-name="AZ24HD1107_AZ24HD1107azteca_24_hdIND_Affiliate" tvg-logo="azteca-7.png" group-title="Español",Azteca 7
@@ -246,7 +221,7 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 #EXTINF:-1 tvg-id="Total_Vevo 3" tvg-name="Vevo_3" tvg-logo="vevo.png" tvg-shift="4" group-title="Ingles",Vevo Nashville
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 #EXTINF:0 tvg-id="Directv_I402.236869399.microsoft.com" tvg-name="UNIHD402_UNIHD402Univision_Network_HDNetwork" tvg-logo="univision.png" group-title="Español",Univisión HD
-rtmp://167.114.157.90/app/turbomaxs-channel
+rtmp://podi.hopper.pw:443/live/live_univision_hd30
 #EXTINF:0 tvg-id="Directv_I407.28461071.microsoft.com" tvg-name="TELEP407_TELEP407Telemundo_Television_Network_(Pacific)Network" tvg-logo="telemundo.png" group-title="Español",Telemundo
 rtmp://167.114.159.156/app/chivasss69s-channel
 #EXTINF:-1 tvg-id="Directv_I407.28461071.microsoft.com" tvg-name="TELEP407_TELEP407Telemundo_Television_Network_(Pacific)Network" tvg-logo="telemundo.png" tvg-shift="4" group-title="Español",Telemundo
