@@ -192,6 +192,10 @@ http://d2akrnroe2tvk3.cloudfront.net/UT-Origin/ngrp:BeInSports_ES_all/chunklist_
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE05.m3u8?
 #EXTINF:-1 tvg-id="CVMX_I506.230742554.microsoft.com" tvg-name="FOXS2506_FOXS2506fox_sports2Cable" tvg-logo="fox-sports-2-hd.png" group-title="Español",Fox Sports 2 HD
 http://200.76.77.237/LIVE/H01/CANAL527/PROFILE05.m3u8?
+#EXTINF:-1,Bein sports
+http://rroso.com@ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/rroso.m3u8
+#EXTINF:-1,ClaroSports
+http://ooyalahd2-f.akamaihd.net/i/csports01_delivery@42896/index_1692_av-p.m3u8
 #EXTINF:-1 tvg-id="SkyMX_I1548.237845807.microsoft.com" tvg-name="ESPNHDM1548_ESPNHDM1548espn_hd_mexicoCable" tvg-logo="espn-hd.png" group-title="Español",ESPN HD
 http://200.76.77.237/LIVE/H01/CANAL516/PROFILE05.m3u8?
 #EXTINF:-1 tvg-id="SkyMX_I1548.237845807.microsoft.com" tvg-name="ESPNHDM1548_ESPNHDM1548espn_hd_mexicoCable" tvg-logo="Goltv.png" group-title="Español",Gol TV
@@ -210,6 +214,10 @@ http://200.76.77.237/LIVE/H01/CANAL603/PROFILE05.m3u8?
 http://200.76.77.237/LIVE/H01/CANAL610/PROFILE05.m3u8?
 #EXTINF:-1 tvg-id="SkyMX_I271.180185345.microsoft.com" tvg-name="TVEA2271_TVEA2271tve_america_iiCable" tvg-logo="tve.png" group-title="Español",TVE
 http://200.76.77.237/LIVE/H01/CANAL651/PROFILE05.m3u8?
+#EXTINF:-1,MTV Rocks
+http://92.50.181.6/tv/1279/index.m3u8
+#EXTINF:-1,EXA TV
+http://iphone-streaming.ustream.tv/uhls/16934974/streams/live/iphone/playlist.m3u8?
 #EXTINF:-1 tvg-id="SkyMX_I1701.241066743.microsoft.com" tvg-name="MTVLVHD1701_MTVLVHD1701mtv_live_hdCable" tvg-logo="mtv-live-hd.png" group-title="Español",MTV Live HD
 http://200.76.77.237/LIVE/H01/CANAL701/PROFILE05.m3u8?
 #EXTINF:-1 tvg-id="SkyMX_I709.44563521.microsoft.com" tvg-name="TELEHI709_TELEHI709telehitCable" tvg-logo="telehit-hd.png" group-title="Español",Telehit HD
