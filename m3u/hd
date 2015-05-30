@@ -136,6 +136,14 @@ http://200.76.77.237/LIVE/H01/CANAL383/PROFILE05.m3u8?
 http://200.76.77.237/LIVE/H01/CANAL386/PROFILE05.m3u8?
 #EXTINF:-1 tvg-id="CVMX_I424.189056398.microsoft.com" tvg-name="WOBI424_WOBI424world_of_business_ideasCable" tvg-logo="wobi-tv.png" group-title="Español",WOBI TV
 http://200.76.77.237/LIVE/H01/CANAL387/PROFILE05.m3u8?
+#EXTINF:0,HBO Signature
+http://192.99.4.70/hls/hbo_signature.m3u8?
+#EXTINF:0,HBO 2
+http://192.99.4.70/hls/HBO2.m3u8?
+#EXTINF:0,HBO Plus
+http://192.99.4.70/hls/HBO_PLUS.m3u8?
+#EXTINF:0,HBO Family
+http://192.99.4.70/hls/HBO_FAMILY.m3u8?
 #EXTINF:-1 tvg-id="SkyMX_I1431.194477519.microsoft.com" tvg-name="FOX1EHD1431_FOX1EHD1431fox1_east_hdPremium" tvg-logo="fox-1-hd.png" group-title="Español",Fox 1 HD
 http://200.76.77.237/LIVE/H01/CANAL415/PROFILE05.m3u8?
 #EXTINF:-1 tvg-id="SkyMX_I435.182998319.microsoft.com" tvg-name="FOXACE435_FOXACE435fox_action_eastPremium" tvg-logo="fox-action.png" group-title="Español",Fox Action HD
