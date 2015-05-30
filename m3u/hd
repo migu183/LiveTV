@@ -2,6 +2,8 @@
 ﻿#EXTM3U
 #EXTINF:-1 tvg-id="SkyMX_I1107.198546159.microsoft.com" tvg-name="AZ24HD1107_AZ24HD1107azteca_24_hdIND_Affiliate" tvg-logo="azteca-7.png" group-title="Español",Azteca 7
 http://200.76.77.237/LIVE/H01/CANAL7/PROFILE05.m3u8?
+#EXTINF:-1 tvg-id="SkyMX_I1107.198546159.microsoft.com" tvg-name="AZ24HD1107_AZ24HD1107azteca_24_hdIND_Affiliate" tvg-logo="caracolhd.png" group-title="Español",Caracol HD
+http://caracoltvlivehds-lh.akamaihd.net/i/wowzalive_1@126280/index_300_av-b.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-id="CVMX_I711.44563157.microsoft.com" tvg-name="CANAL_24711_CANAL_24711canal_24_horas_noticiasCable" tvg-logo="azteca-internacional.png" group-title="Español",Azteca Internacional
 http://200.76.77.237/LIVE/H01/CANAL2/PROFILE05.m3u8?
 #EXTINF:-1 tvg-id="SkyMX_I102.44563376.microsoft.com" tvg-name="XEW102_XEW102xew_02IND_Affiliate" tvg-logo="canal-2-HD.png" group-title="Español",Canal 2 HD
