@@ -221,7 +221,7 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 #EXTINF:-1 tvg-id="Total_Vevo 3" tvg-name="Vevo_3" tvg-logo="vevo.png" tvg-shift="4" group-title="Ingles",Vevo Nashville
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 #EXTINF:0 tvg-id="Directv_I402.236869399.microsoft.com" tvg-name="UNIHD402_UNIHD402Univision_Network_HDNetwork" tvg-logo="univision.png" group-title="Español",Univisión HD
-rtmp://podi.hopper.pw:443/live/live_univision_hd30
+http://187.247.255.139/Apple/TDNHD600.m3u8
 #EXTINF:0 tvg-id="Directv_I407.28461071.microsoft.com" tvg-name="TELEP407_TELEP407Telemundo_Television_Network_(Pacific)Network" tvg-logo="telemundo.png" group-title="Español",Telemundo
 rtmp://167.114.159.156/app/chivasss69s-channel
 #EXTINF:-1 tvg-id="Directv_I407.28461071.microsoft.com" tvg-name="TELEP407_TELEP407Telemundo_Television_Network_(Pacific)Network" tvg-logo="telemundo.png" tvg-shift="4" group-title="Español",Telemundo
