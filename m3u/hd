@@ -464,17 +464,27 @@ http://46.249.213.93/iPhone/HLS_TS/broadcast/sportmax-tablet.3gp/sportmax-tablet
 http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8
 #EXTINF:0 tvg-id="Total_gtv_dummy_1" tvg-name="guiatv" tvg-logo="guiatv-prueba.png" group-title="Ingles",Fox Sports News
 http://foxsportshdhls-lh.akamaihd.net/i/fsnewshls_0@136427/index_2128_av-p.m3u8
-#EXTINF:0,Sky Sports 1
-http://195.154.227.38:1935/live/skysports1lsh/playlist.m3u8?wowzasessionid=997050159
-#EXTINF:0,Sky Sports 2
-http://195.154.227.38:1935/live/skysports2lsh/playlist.m3u8?wowzasessionid=283216652
-#EXTINF:0,Sky Sports 3
-http://195.154.227.38:1935/live/skysports3lsh/playlist.m3u8?wowzasessionid=1973401270
-#EXTINF:0,Sky Sports 4
-http://195.154.227.38:1935/live/skysports4lsh/playlist.m3u8?wowzasessionid=1131031689
-#EXTINF:0,Sky Sports 5
-http://195.154.227.38:1935/live/skysports5lsh/playlist.m3u8?wowzasessionid=1505515574
-#EXTINF:0,BT Sport 1
-http://195.154.227.38:1935/live/btsports1lsh/playlist.m3u8?wowzasessionid=1550867403
-#EXTINF:0,BT Sport 2
-http://195.154.227.38:1935/live/btsports2lsh/playlist.m3u8?wowzasessionid=1989000340
+#EXTINF:-1,Bein 1
+http://185.56.30.127:8082/TV4001
+#EXTINF:-1,Bein 2
+http://185.56.30.127:8082/TV4002
+#EXTINF:-1,Bein 3
+http://185.56.30.127:8082/TV4003
+#EXTINF:-1,Bein 4
+http://185.56.30.127:8082/TV4004
+#EXTINF:-1,Bein 5
+http://185.56.30.127:8082/TV4005
+#EXTINF:-1,Bein 6
+http://185.56.30.127:8082/TV4006
+#EXTINF:-1,Bein 7
+http://185.56.30.127:8082/TV4007
+#EXTINF:-1,Bein 8
+http://185.56.30.127:8082/TV4008
+#EXTINF:-1,Bein 9
+http://185.56.30.127:8082/TV4009
+#EXTINF:-1,Bein 10
+http://185.56.30.127:8082/TV4010
+#EXTINF:-1,Bein 11
+http://185.56.30.127:8082/TV4011
+#EXTINF:-1,Bein 12
+http://185.56.30.127:8082/TV4012
