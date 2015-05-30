@@ -70,6 +70,8 @@ http://200.76.77.237/LIVE/H01/CANAL268/PROFILE05.m3u8?
 http://200.76.77.237/LIVE/H01/CANAL270/PROFILE05.m3u8?
 #EXTINF:-1 tvg-id="SkyMX_I227.45519228.microsoft.com" tvg-name="FOXLIFE227_FOXLIFE227fox_life_latin_americaCable" tvg-logo="fox-life.png" group-title="Español",Fox Life
 http://200.76.77.237/LIVE/H01/CANAL271/PROFILE05.m3u8?
+#EXTINF:-1, Fox Life HD
+http://46.61.226.18/hls/CH_C04_FOXLIFEHD/bw3000000/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="SkyMX_I228.170485660.microsoft.com" tvg-name="DISTCOM228_DISTCOM228distrito_comediaCable" tvg-logo="distrito-comedia.png" group-title="Español",Distrito Comedia
 http://200.76.77.237/LIVE/H01/CANAL272/PROFILE05.m3u8?
 #EXTINF:-1 tvg-id="SkyMX_I225.274830319.microsoft.com" tvg-name="TBSESLA225_TBSESLA225tbs_espanol_latin_americaCable" tvg-logo="tbs.png" group-title="Español",TBS
@@ -86,6 +88,8 @@ http://200.76.77.237/LIVE/H01/CANAL269/PROFILE05.m3u8?
 http://200.76.77.237/LIVE/H01/CANAL303/PROFILE05.m3u8?
 #EXTINF:-1 tvg-id="SkyMX_I329.196834582.microsoft.com" tvg-name="CBEETV329_CBEETV329cbeebies_tvCable" tvg-logo="cbeebies.png" group-title="Español",CBeebies
 http://200.76.77.237/LIVE/H01/CANAL305/PROFILE05.m3u8?
+#EXTINF:-1,Disney Channel USA HD 720P
+rtmp://stream.connectcast.tv/live/mp4:CC-F91655E4-277C-E23A-B447-5E1B21E83E21-31816
 #EXTINF:-1 tvg-id="SkyMX_I331.198585729.microsoft.com" tvg-name="DISNJMX331_DISNJMX331disney_junior_mexicoCable" tvg-logo="disney-jr.png" group-title="Español",Disney Jr
 http://200.76.77.237/LIVE/H01/CANAL308/PROFILE05.m3u8?
 #EXTINF:-1 tvg-id="SkyMX_I325.194117376.microsoft.com" tvg-name="NICKJLM325_NICKJLM325nick_junior_latin_am_mexicoCable" tvg-logo="nick-jr.png" group-title="Español",Nick Jr
@@ -136,13 +140,17 @@ http://200.76.77.237/LIVE/H01/CANAL383/PROFILE05.m3u8?
 http://200.76.77.237/LIVE/H01/CANAL386/PROFILE05.m3u8?
 #EXTINF:-1 tvg-id="CVMX_I424.189056398.microsoft.com" tvg-name="WOBI424_WOBI424world_of_business_ideasCable" tvg-logo="wobi-tv.png" group-title="Español",WOBI TV
 http://200.76.77.237/LIVE/H01/CANAL387/PROFILE05.m3u8?
-#EXTINF:0,HBO Signature
+#EXTINF:-1, Paramount Channel HD
+http://46.61.226.18/hls/CH_C02_PARAMOUNTCHANNELHD/bw3000000/variant.m3u8?version=2
+#EXTINF:-1, Paramount Comedy HD
+http://46.61.226.18/hls/CH_C03_PARAMOUNTCOMEDYHD/bw3000000/variant.m3u8?version=2
+#EXTINF:-1,HBO Signature
 http://192.99.4.70/hls/hbo_signature.m3u8?
-#EXTINF:0,HBO 2
+#EXTINF:-1,HBO 2
 http://192.99.4.70/hls/HBO2.m3u8?
-#EXTINF:0,HBO Plus
+#EXTINF:-1,HBO Plus
 http://192.99.4.70/hls/HBO_PLUS.m3u8?
-#EXTINF:0,HBO Family
+#EXTINF:-1,HBO Family
 http://192.99.4.70/hls/HBO_FAMILY.m3u8?
 #EXTINF:-1 tvg-id="SkyMX_I1431.194477519.microsoft.com" tvg-name="FOX1EHD1431_FOX1EHD1431fox1_east_hdPremium" tvg-logo="fox-1-hd.png" group-title="Español",Fox 1 HD
 http://200.76.77.237/LIVE/H01/CANAL415/PROFILE05.m3u8?
@@ -192,6 +200,10 @@ http://d2akrnroe2tvk3.cloudfront.net/UT-Origin/ngrp:BeInSports_ES_all/chunklist_
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE05.m3u8?
 #EXTINF:-1 tvg-id="CVMX_I506.230742554.microsoft.com" tvg-name="FOXS2506_FOXS2506fox_sports2Cable" tvg-logo="fox-sports-2-hd.png" group-title="Español",Fox Sports 2 HD
 http://200.76.77.237/LIVE/H01/CANAL527/PROFILE05.m3u8?
+#EXTINF:-1, beIN Sports 1 HD English
+http://ak-bein-us-en-stream.fubo.tv/UT-Origin/ngrp:BeInSports_EN_all/chunklist_b1628000.m3u8
+#EXTINF:-1, beIN Sports 1 HD Spanish
+http://ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/chunklist_b2128000.m3u8
 #EXTINF:-1,Bein sports
 http://rroso.com@ak-bein-us-es-stream.fubo.tv/UT-Origin/ngrp:BeInSports_ES_all/rroso.m3u8
 #EXTINF:-1,ClaroSports
@@ -214,6 +226,10 @@ http://200.76.77.237/LIVE/H01/CANAL603/PROFILE05.m3u8?
 http://200.76.77.237/LIVE/H01/CANAL610/PROFILE05.m3u8?
 #EXTINF:-1 tvg-id="SkyMX_I271.180185345.microsoft.com" tvg-name="TVEA2271_TVEA2271tve_america_iiCable" tvg-logo="tve.png" group-title="Español",TVE
 http://200.76.77.237/LIVE/H01/CANAL651/PROFILE05.m3u8?
+#EXTINF:-1,Club HD 720P
+http://195.189.238.18/streaming/firstmuz/16/hd/playlist.m3u8
+#EXTINF:-1,Best Music HD 720P
+rtmp://stream.smcloud.net/live2/best/best_720p
 #EXTINF:-1,MTV Rocks
 http://92.50.181.6/tv/1279/index.m3u8
 #EXTINF:-1,EXA TV
