@@ -5,3 +5,10 @@
 #EXTINF: -1, ANTENA 3 HD 
 http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
 
+#EXTINF: -1, LaSexta HD
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+
+
+#EXTINF:--1, FOXSPORT HD 
+http://113.160.49.34/lives/origin03/foxhd.isml/foxhd-2096k.m3u8
+
